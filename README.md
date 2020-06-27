@@ -1,4 +1,4 @@
-*<span id="Instalargoogle_images_download" data-mce-mark="1"> </span>_google_images_download_*
+***<span id="Instalargoogle_images_download" data-mce-mark="1"> </span>_google_images_download_***
 
 Como se puede observar, es simplemente una función que recibe una serie de parámetros.
 
