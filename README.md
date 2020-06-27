@@ -1,4 +1,4 @@
-# Instalargoogle_images_download :open_file_folder:
+# Instalar google_images_download :open_file_folder:
 
 Como se puede observar, es simplemente una función que recibe una serie de parámetros.
 
