@@ -2,6 +2,8 @@
 
 Como se puede observar, es simplemente una función que recibe una serie de parámetros.
 
+---
+
 Los parámetros que obligatoriamente debemos pasarle a la función son los siguientes:
 
 *   <span id="Instalargoogle_images_download">_query:_ </span>consulta que queremos realizar para buscar las imágenes. Es de tipo cadena y solo se puede pasar una única cadena.
