@@ -1,4 +1,4 @@
-***<span id="Instalargoogle_images_download" data-mce-mark="1"> </span>_google_images_download_***
+# Instalargoogle_images_download :open_file_folder:
 
 Como se puede observar, es simplemente una función que recibe una serie de parámetros.
 
@@ -17,7 +17,7 @@ En la función simplemente realizaremos una petición de descarga con los parám
 
 Si no se ha producido ninguna [excepción](https://mapecode.com/excepciones-en-python/) durante la descarga las imágenes se habrán guardado en una carpeta llamada _downloads, _localizada en el mismo directorio donde hayamos ejecutado el script.
 
-### <span id="Instalargoogle_images_download">Ejemplos de uso</span>
+## <span id="Instalargoogle_images_download">Ejemplos de uso</span>
 
 Ahora os voy a mostrar dos ejemplos de uso del script para descargar imágenes de google con Python:
 
@@ -42,3 +42,8 @@ Ahora os voy a mostrar dos ejemplos de uso del script para descargar imágenes d
 ## <span id="Instalargoogle_images_download">Fuentes</span>
 
 *   [https://www.geeksforgeeks.org/how-to-download-google-images-using-python/](https://www.geeksforgeeks.org/how-to-download-google-images-using-python/)
+
+
+## Author :octocat:
+
+[Esteban De La Hoz](https://www.linkedin.com/in/esteban-de-la-hoz-romero-b6270017b/) | [Twitter](https://twitter.com/Esteban18911) | [GitHub](https://github.com/Esteban18911)
